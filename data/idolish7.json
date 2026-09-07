@@ -6,6 +6,7 @@
     {
       "uuid": "9CE8D70D-211A-523F-86B3-F287188F4B75",
       "masterId": "idolish7_idolish7",
+      "appleMusicArtistId": "1031143324",
       "name": "IDOLiSH7",
       "isActive": true,
       "profileURL": "https://idolish7.com/artist/idolish7",
@@ -146,6 +147,7 @@
     {
       "uuid": "F14816C3-F5F5-5B0C-88B7-A80BEEC13F47",
       "masterId": "idolish7_trigger",
+      "appleMusicArtistId": "1151574644",
       "name": "TRIGGER",
       "isActive": true,
       "profileURL": "https://idolish7.com/artist/trigger",
@@ -218,6 +220,7 @@
     {
       "uuid": "837F4A1A-C207-5E63-BAFE-82E7F6E71445",
       "masterId": "idolish7_revale",
+      "appleMusicArtistId": "1121976721",
       "name": "Re:vale",
       "isActive": true,
       "profileURL": "https://idolish7.com/artist/revale",
@@ -273,6 +276,7 @@
     {
       "uuid": "BDFE8081-FD01-5112-B556-27629DE5D712",
       "masterId": "idolish7_zool",
+      "appleMusicArtistId": "1270966793",
       "name": "ŹOOĻ",
       "isActive": true,
       "profileURL": "https://idolish7.com/artist/zool",

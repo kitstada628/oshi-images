@@ -129,6 +129,7 @@
     {
       "uuid": "3487D913-619E-5B66-9509-8FCAF5727FB6",
       "masterId": "project_sekai_unite01",
+      "appleMusicArtistId": "1569779644",
       "name": "Leo/need",
       "isActive": true,
       "profileURL": "https://pjsekai.sega.jp/character/unite01/index.html",
@@ -218,6 +219,7 @@
     {
       "uuid": "1BFC0F6D-9C0E-52A7-BC58-30AC6FD5EA51",
       "masterId": "project_sekai_unite02",
+      "appleMusicArtistId": "1572829361",
       "name": "MORE MORE JUMP！",
       "isActive": true,
       "profileURL": "https://pjsekai.sega.jp/character/unite02/index.html",
@@ -307,6 +309,7 @@
     {
       "uuid": "C53CFF10-2630-594B-B330-03585B9707BE",
       "masterId": "project_sekai_unite03",
+      "appleMusicArtistId": "1574121417",
       "name": "Vivid BAD SQUAD",
       "isActive": true,
       "profileURL": "https://pjsekai.sega.jp/character/unite03/index.html",
@@ -396,6 +399,7 @@
     {
       "uuid": "7BEADCE4-2097-55C4-BC65-F76FC9C47CB8",
       "masterId": "project_sekai_unite04",
+      "appleMusicArtistId": "1576287048",
       "name": "ワンダーランズ×ショウタイム",
       "isActive": true,
       "profileURL": "https://pjsekai.sega.jp/character/unite04/index.html",
@@ -485,6 +489,7 @@
     {
       "uuid": "77CD61A2-9991-5626-ADEB-B84CE867E4F3",
       "masterId": "project_sekai_unite05",
+      "appleMusicArtistId": "1578872800",
       "name": "25時、ナイトコードで。",
       "isActive": true,
       "profileURL": "https://pjsekai.sega.jp/character/unite05/index.html",

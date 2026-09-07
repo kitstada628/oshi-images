@@ -6,6 +6,7 @@
     {
       "uuid": "28022508-BF51-516D-830B-F3C5E90325D9",
       "masterId": "ensemble_stars_fine",
+      "appleMusicArtistId": "1478814144",
       "name": "フィーネ",
       "isActive": true,
       "profileURL": "https://ensemble-stars.jp/units/fine/",
@@ -95,6 +96,7 @@
     {
       "uuid": "B109156F-0A8E-56CF-AA3E-33958EFDB9E3",
       "masterId": "ensemble_stars_trickstar",
+      "appleMusicArtistId": "1473359599",
       "name": "トリックスター",
       "isActive": true,
       "profileURL": "https://ensemble-stars.jp/units/trickstar/",
@@ -184,6 +186,7 @@
     {
       "uuid": "2F172E19-03E5-5777-B012-AA566CE09E9D",
       "masterId": "ensemble_stars_ryuseitai",
+      "appleMusicArtistId": "1074580684",
       "name": "リュウセイタイ",
       "isActive": true,
       "profileURL": "https://ensemble-stars.jp/units/ryuseitai/",
@@ -290,6 +293,7 @@
     {
       "uuid": "413A52F9-2FF4-5B3E-9900-201B8984B3C0",
       "masterId": "ensemble_stars_alkaloid",
+      "appleMusicArtistId": "1614981779",
       "name": "アルカロイド",
       "isActive": true,
       "profileURL": "https://ensemble-stars.jp/units/alkaloid/",
@@ -379,6 +383,7 @@
     {
       "uuid": "F9C00D4C-BA00-558D-8584-E63E858A608F",
       "masterId": "ensemble_stars_eden",
+      "appleMusicArtistId": "1346366618",
       "name": "エデン",
       "isActive": true,
       "profileURL": "https://ensemble-stars.jp/units/eden/",
@@ -468,6 +473,7 @@
     {
       "uuid": "063A4A53-ECF4-5562-8E1B-43AE852CAD90",
       "masterId": "ensemble_stars_valkyrie",
+      "appleMusicArtistId": "1478813882",
       "name": "ヴァルキュリー",
       "isActive": true,
       "profileURL": "https://ensemble-stars.jp/units/valkyrie/",
@@ -523,6 +529,7 @@
     {
       "uuid": "67B68E1B-A100-5E03-9528-9920A9578929",
       "masterId": "ensemble_stars_2wink",
+      "appleMusicArtistId": "1074580472",
       "name": "トゥウィンク",
       "isActive": true,
       "profileURL": "https://ensemble-stars.jp/units/2wink/",
@@ -578,6 +585,7 @@
     {
       "uuid": "75A7249E-C60E-5FE8-A61A-400FC02E70EC",
       "masterId": "ensemble_stars_crazyb",
+      "appleMusicArtistId": "1611192965",
       "name": "クレイジービー",
       "isActive": true,
       "profileURL": "https://ensemble-stars.jp/units/crazyb/",
@@ -667,6 +675,7 @@
     {
       "uuid": "FEE00DA8-D36F-5E7C-AE2C-5495F66766FC",
       "masterId": "ensemble_stars_undead",
+      "appleMusicArtistId": "1473359910",
       "name": "アンデッド",
       "isActive": true,
       "profileURL": "https://ensemble-stars.jp/units/undead/",
@@ -756,6 +765,7 @@
     {
       "uuid": "0D08A728-2ECD-5ACB-8C60-5FF2E7C9A7F1",
       "masterId": "ensemble_stars_rabits",
+      "appleMusicArtistId": "1074580364",
       "name": "ラビッツ",
       "isActive": true,
       "profileURL": "https://ensemble-stars.jp/units/rabits/",
@@ -845,6 +855,7 @@
     {
       "uuid": "7B6E63B5-0EF1-50E8-89FF-13FE29715CEC",
       "masterId": "ensemble_stars_akatsuki",
+      "appleMusicArtistId": "1074581269",
       "name": "アカツキ",
       "isActive": true,
       "profileURL": "https://ensemble-stars.jp/units/akatsuki/",
@@ -934,6 +945,7 @@
     {
       "uuid": "30DD3AF1-B7F2-552A-8F15-BC9ED83036D4",
       "masterId": "ensemble_stars_mellowdearus",
+      "appleMusicArtistId": "1845985325",
       "name": "メロウ・ディアース",
       "isActive": true,
       "profileURL": "https://ensemble-stars.jp/units/mellowdearus/",
@@ -1023,6 +1035,7 @@
     {
       "uuid": "F997C06E-EFBF-5D21-8BB1-B208B4BA34F3",
       "masterId": "ensemble_stars_knights",
+      "appleMusicArtistId": "1074580884",
       "name": "ナイツ",
       "isActive": true,
       "profileURL": "https://ensemble-stars.jp/units/knights/",
@@ -1129,6 +1142,7 @@
     {
       "uuid": "F06EF725-53C9-52DB-A855-566AC4F02569",
       "masterId": "ensemble_stars_switch",
+      "appleMusicArtistId": "1187059104",
       "name": "スウィッチ",
       "isActive": true,
       "profileURL": "https://ensemble-stars.jp/units/switch/",
@@ -1201,6 +1215,7 @@
     {
       "uuid": "52199D87-B08D-5907-9258-41A88DA0E042",
       "masterId": "ensemble_stars_mam",
+      "appleMusicArtistId": "1621997055",
       "name": "マム",
       "isActive": true,
       "profileURL": "https://ensemble-stars.jp/units/mam/",
@@ -1239,6 +1254,7 @@
     {
       "uuid": "4AF441D6-859B-5E42-943D-DE772A20D6DE",
       "masterId": "ensemble_stars_doubleface",
+      "appleMusicArtistId": "1613900574",
       "name": "ダブルフェイス",
       "isActive": true,
       "profileURL": "https://ensemble-stars.jp/units/doubleface/",
@@ -1294,6 +1310,7 @@
     {
       "uuid": "09E3862D-530A-57C5-AF2D-843A293D6287",
       "masterId": "ensemble_stars_specialforprincess",
+      "appleMusicArtistId": "1562949899",
       "name": "スペシャル・フォー・プリンセス",
       "isActive": true,
       "profileURL": "https://ensemble-stars.jp/units/specialforprincess/",
@@ -1383,6 +1400,7 @@
     {
       "uuid": "3F78DF61-E92F-5CE9-B44F-57524C53A135",
       "masterId": "ensemble_stars_janda",
+      "appleMusicArtistId": "1504648567",
       "name": "ジンアンドアキオミ",
       "isActive": true,
       "profileURL": "https://ensemble-stars.jp/units/janda/",
