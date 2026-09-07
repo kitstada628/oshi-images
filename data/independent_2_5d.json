@@ -6,6 +6,7 @@
     {
       "uuid": "B582863F-416C-5F03-8F24-6B71BA8C262D",
       "masterId": "independent_2_5d_sixfonia",
+      "appleMusicArtistId": "1647193830",
       "name": "シクフォニ",
       "isActive": true,
       "profileURL": "https://sixfonia.com/",
@@ -129,6 +130,7 @@
     {
       "uuid": "E1E6F637-E4A1-53AC-9031-AD82B43F9296",
       "masterId": "independent_2_5d_meropaka",
+      "appleMusicArtistId": "1848766402",
       "name": "めろんぱーかー",
       "isActive": true,
       "profileURL": "https://meropaka.com/",

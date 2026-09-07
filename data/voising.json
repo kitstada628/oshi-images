@@ -6,6 +6,7 @@
     {
       "uuid": "67816FD7-FEAD-5DFD-B06C-9A1DD828CEF6",
       "masterId": "voising_ireisu",
+      "appleMusicArtistId": "1797306359",
       "name": "いれいす",
       "isActive": true,
       "profileURL": "https://voising-official.com/talent/ireisu",
@@ -130,6 +131,7 @@
     {
       "uuid": "10DE1453-5D52-5D9C-AE60-17C8EF409254",
       "masterId": "voising_starpola",
+      "appleMusicArtistId": "1663459100",
       "name": "すたぽら",
       "isActive": true,
       "profileURL": "https://voising-official.com/talent/starpola",
@@ -219,6 +221,7 @@
     {
       "uuid": "11BE6CA1-45BF-516F-A37A-B03A9496482C",
       "masterId": "voising_chronover",
+      "appleMusicArtistId": "1777974503",
       "name": "クロノヴァ",
       "isActive": true,
       "profileURL": "https://voising-official.com/talent/chronover",

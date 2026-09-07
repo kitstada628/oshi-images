@@ -6,6 +6,7 @@
     {
       "uuid": "F7760F21-4370-5BDB-B919-610DB3E80B82",
       "masterId": "utaite_urashimasakatasen",
+      "appleMusicArtistId": "1091192050",
       "name": "浦島坂田船",
       "isActive": true,
       "profileURL": "https://nbcuni-music.com/urashimasakatasen/profile/",
@@ -101,6 +102,7 @@
     {
       "uuid": "C8FF0CE4-6728-540B-815F-2E879926C51F",
       "masterId": "utaite_after_the_rain",
+      "appleMusicArtistId": "130046317",
       "name": "After the Rain",
       "isActive": true,
       "profileURL": "https://aftertherain.co.jp/profile/",

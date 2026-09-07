@@ -6,6 +6,7 @@
     {
       "uuid": "4B4CF8E1-21CB-58F2-BF8D-47F77E9E34B6",
       "masterId": "jpop_rock_mrs_green_apple",
+      "appleMusicArtistId": "962221033",
       "name": "Mrs. GREEN APPLE",
       "isActive": true,
       "profileURL": "https://mrsgreenapple.com/",
@@ -78,6 +79,7 @@
     {
       "uuid": "5338E259-1A11-5B06-83DA-0483B591B0A3",
       "masterId": "jpop_rock_back_number",
+      "appleMusicArtistId": "302361237",
       "name": "back number",
       "isActive": true,
       "profileURL": "https://backnumber.info/",
@@ -150,6 +152,7 @@
     {
       "uuid": "EE039154-326A-5A72-A899-C0D3F15DB8FD",
       "masterId": "jpop_rock_kenshi_yonezu",
+      "appleMusicArtistId": "530814268",
       "name": "米津玄師",
       "isActive": true,
       "profileURL": "https://reissuerecords.net/",
@@ -188,6 +191,7 @@
     {
       "uuid": "8DC729A9-8FAC-5150-9D4C-B8CA18F84892",
       "masterId": "jpop_rock_vaundy",
+      "appleMusicArtistId": "1487570516",
       "name": "Vaundy",
       "isActive": true,
       "profileURL": "https://vaundy.jp/",
@@ -226,6 +230,7 @@
     {
       "uuid": "5535914A-2134-51A6-B7A0-E475AFA7BEF6",
       "masterId": "jpop_rock_official_hige_dandism",
+      "appleMusicArtistId": "960568308",
       "name": "Official髭男dism",
       "isActive": true,
       "profileURL": "https://higedan.com/",
@@ -315,6 +320,7 @@
     {
       "uuid": "ECE26D61-5CEC-5B5E-B0D7-E9AB24C502D6",
       "masterId": "jpop_rock_yoasobi",
+      "appleMusicArtistId": "1490256993",
       "name": "YOASOBI",
       "isActive": true,
       "profileURL": "https://www.yoasobi-music.jp/",
@@ -371,6 +377,7 @@
     {
       "uuid": "D20DA35A-C224-58A0-BD70-AD7F314DB204",
       "masterId": "jpop_rock_creepy_nuts",
+      "appleMusicArtistId": "678140651",
       "name": "Creepy Nuts",
       "isActive": true,
       "profileURL": "https://creepynuts.com/",
@@ -426,6 +433,7 @@
     {
       "uuid": "339F75C1-A391-5F91-ACFE-47FBE30EA2B2",
       "masterId": "jpop_rock_ado",
+      "appleMusicArtistId": "1492604670",
       "name": "Ado",
       "isActive": true,
       "profileURL": "https://ado-dokidokihimitsukichi-daigakuimo.com/",
@@ -464,6 +472,7 @@
     {
       "uuid": "5125E853-5EA0-5469-A566-8D5ED734FF2C",
       "masterId": "jpop_rock_king_gnu",
+      "appleMusicArtistId": "1258439196",
       "name": "King Gnu",
       "isActive": true,
       "profileURL": "https://kinggnu.jp/",
@@ -553,6 +562,7 @@
     {
       "uuid": "3D5216D8-C223-5A73-821F-1BD289DFD7CD",
       "masterId": "jpop_rock_one_ok_rock",
+      "appleMusicArtistId": "252239625",
       "name": "ONE OK ROCK",
       "isActive": true,
       "profileURL": "https://www.oneokrock.com/",
@@ -642,6 +652,7 @@
     {
       "uuid": "A831A575-1DE0-559D-89F8-B5989A2BBB3E",
       "masterId": "jpop_rock_fuji_kaze",
+      "appleMusicArtistId": "1486113150",
       "name": "藤井風",
       "isActive": true,
       "profileURL": "https://fujiikaze.com/",
@@ -680,6 +691,7 @@
     {
       "uuid": "94FE1FCE-7059-502B-8184-4B8FBBDBEBB1",
       "masterId": "jpop_rock_aimyon",
+      "appleMusicArtistId": "1165017710",
       "name": "あいみょん",
       "isActive": true,
       "profileURL": "https://www.aimyong.net/",
@@ -718,6 +730,7 @@
     {
       "uuid": "12F7126D-AA45-5E70-B780-0E98EF5A6A05",
       "masterId": "jpop_rock_bump_of_chicken",
+      "appleMusicArtistId": "185088141",
       "name": "BUMP OF CHICKEN",
       "isActive": true,
       "profileURL": "https://www.bumpofchicken.com/",
@@ -807,6 +820,7 @@
     {
       "uuid": "8B93CC8F-5A09-5E7B-8E85-53196B6FF926",
       "masterId": "jpop_rock_sekai_no_owari",
+      "appleMusicArtistId": "454694621",
       "name": "SEKAI NO OWARI",
       "isActive": true,
       "profileURL": "https://sekainoowari.jp/",
@@ -896,6 +910,7 @@
     {
       "uuid": "D244DD4F-E7D6-5834-919C-7793B0F1BB8F",
       "masterId": "jpop_rock_yorushika",
+      "appleMusicArtistId": "1250709916",
       "name": "ヨルシカ",
       "isActive": true,
       "profileURL": "https://yorushika.com/",

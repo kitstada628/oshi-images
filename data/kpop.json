@@ -6,6 +6,7 @@
     {
       "uuid": "AC550EA6-ABDB-5EE3-B812-DD58A9AA7678",
       "masterId": "kpop_bts",
+      "appleMusicArtistId": "883131348",
       "name": "BTS",
       "isActive": true,
       "profileURL": "https://bts.ibighit.com/eng/profile/",
@@ -146,6 +147,7 @@
     {
       "uuid": "9E17ECDD-D2A1-5331-B5D1-CB306CF38DFB",
       "masterId": "kpop_blackpink",
+      "appleMusicArtistId": "1141774019",
       "name": "BLACKPINK",
       "isActive": true,
       "profileURL": "https://www.blackpinkofficial.com/",
@@ -240,6 +242,7 @@
     {
       "uuid": "FA87470B-8D29-53FA-8EA4-4C06853D580A",
       "masterId": "kpop_twice",
+      "appleMusicArtistId": "1203816887",
       "name": "TWICE",
       "isActive": true,
       "profileURL": "https://twice.jype.com/Mobile/Profile",
@@ -424,6 +427,7 @@
     {
       "uuid": "02C3827F-5FA5-5377-9950-F4961F4B5C40",
       "masterId": "kpop_seventeen",
+      "appleMusicArtistId": "999644772",
       "name": "SEVENTEEN",
       "isActive": true,
       "profileURL": "https://www.seventeen-17.jp/",
@@ -680,6 +684,7 @@
     {
       "uuid": "670BC8DE-6E6B-5582-9CA7-3E1EC5B1266B",
       "masterId": "kpop_stray_kids",
+      "appleMusicArtistId": "1304823362",
       "name": "Stray Kids",
       "isActive": true,
       "profileURL": "https://straykids.jype.com/",
@@ -837,6 +842,7 @@
     {
       "uuid": "28ADBA5B-9A1C-534D-820D-0B1A6628CD3B",
       "masterId": "kpop_aespa",
+      "appleMusicArtistId": "1540251304",
       "name": "aespa",
       "isActive": true,
       "profileURL": "https://www.smtown.com/artist/musician/10766",
@@ -926,6 +932,7 @@
     {
       "uuid": "06E663D0-143A-56BE-9D49-A7510D5AE333",
       "masterId": "kpop_ive",
+      "appleMusicArtistId": "1594159996",
       "name": "IVE",
       "isActive": true,
       "profileURL": "https://ive-official.com/",
@@ -1049,6 +1056,7 @@
     {
       "uuid": "F7867A6C-C369-578D-9920-52DD346D54B4",
       "masterId": "kpop_le_sserafim",
+      "appleMusicArtistId": "1616740364",
       "name": "LE SSERAFIM",
       "isActive": true,
       "profileURL": "https://www.le-sserafim.jp/profile",
@@ -1155,6 +1163,7 @@
     {
       "uuid": "118EFEC6-D4DC-5364-8A8D-43DEC9CE6DCC",
       "masterId": "kpop_txt",
+      "appleMusicArtistId": "1454642552",
       "name": "TOMORROW X TOGETHER",
       "isActive": true,
       "profileURL": "https://ibighit.com/txt/eng/profile/",
@@ -1261,6 +1270,7 @@
     {
       "uuid": "EEAAABC0-0385-536B-81B4-9E9596D86D65",
       "masterId": "kpop_babymonster",
+      "appleMusicArtistId": "1715981813",
       "name": "BABYMONSTER",
       "isActive": true,
       "profileURL": "https://www.ygfamily.com/artist/About.asp?LANGDIV=K&ATYPE=2&ARTIDX=122",
