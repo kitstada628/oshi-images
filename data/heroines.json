@@ -139,7 +139,7 @@
           "colorHex": [
             "#FDAFC5"
           ],
-          "birthday": null,
+          "birthday": "08-29",
           "joinDate": "2026-04-16",
           "sns": {
             "twitter": "https://x.com/aporo_ponkotsu",
@@ -2442,7 +2442,7 @@
           "masterId": "heroines_dress_code_kosuzu_moyu",
           "name": "小鈴もゆ",
           "profileURL": null,
-          "isGraduated": false,
+          "isGraduated": true,
           "colorHex": [
             "#B5D5FE"
           ],
@@ -2533,7 +2533,7 @@
           "masterId": "heroines_dress_code_yuine_chiyu",
           "name": "結音ちゆ",
           "profileURL": null,
-          "isGraduated": false,
+          "isGraduated": true,
           "colorHex": [
             "#FFFFFF"
           ],
@@ -2561,6 +2561,23 @@
             "tiktok": "https://www.tiktok.com/@dreco_rinoa"
           },
           "joinDate": "2024-10-13"
+        },
+        {
+          "uuid": "6FCC228A-408F-43FA-BB94-69BB75832C79",
+          "masterId": "heroines_ponkotsu_konpo_akita_komachi",
+          "name": "秋田こまち",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#B5D5FE"
+          ],
+          "birthday": null,
+          "joinDate": "2026-08-13",
+          "sns": {
+            "twitter": "https://x.com/koma_ponkotsu",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@koma_ponkotsu"
+          }
         }
       ],
       "formationDate": "2024-09-21",
@@ -2821,7 +2838,7 @@
           "masterId": "heroines_ion_osu_kanon",
           "name": "大須かのん",
           "profileURL": null,
-          "isGraduated": false,
+          "isGraduated": true,
           "colorHex": [
             "#FFA2D7"
           ],
@@ -2895,7 +2912,7 @@
           "masterId": "heroines_ion_maisen_ekubo",
           "name": "苺川えくぼ",
           "profileURL": null,
-          "isGraduated": false,
+          "isGraduated": true,
           "colorHex": [
             "#FF6BC3"
           ],
@@ -3910,6 +3927,23 @@
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@rikotantanmen"
           }
+        },
+        {
+          "uuid": "0A921C20-6051-429C-A871-B92AB6D6081F",
+          "masterId": "heroines_nanakorobi_yaoki_nagai_shiina",
+          "name": "長居しいな",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#01E09D"
+          ],
+          "birthday": null,
+          "joinDate": "2026-08-11",
+          "sns": {
+            "twitter": "https://x.com/shiina_nanakoro",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@siina_nanakoro"
+          }
         }
       ],
       "formationDate": "2024-06-14",
@@ -4152,7 +4186,7 @@
           "profileURL": null,
           "isGraduated": false,
           "colorHex": null,
-          "birthday": null,
+          "birthday": "08-29",
           "joinDate": "2026-05-06",
           "sns": {
             "twitter": "https://x.com/neon_heroines",
@@ -4602,6 +4636,80 @@
           "birthday": null,
           "joinDate": "2026-08-03",
           "sns": {"twitter": "https://x.com/wakana__umeko", "instagram": null, "tiktok": "https://www.tiktok.com/@wakana_umeko"}
+        }
+      ]
+    },
+    {
+      "uuid": "6D6A3955-2ABA-407C-9F8A-C6AAF4F1C7E5",
+      "masterId": "heroines_imin",
+      "name": "iMiN!",
+      "isActive": true,
+      "profileURL": "https://jpop.fandom.com/wiki/IMiN!",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": null,
+        "twitter": "https://x.com/iMiN_official",
+        "instagram": null,
+        "tiktok": "https://www.tiktok.com/@imin_official",
+        "youtube": null
+      },
+      "timeTreeURL": null,
+      "members": [
+        {
+          "uuid": "3C6D08A5-52AA-478F-8AEA-45A6CBE2A522",
+          "masterId": "heroines_imin_hanasaki_furan",
+          "name": "華咲ふらん",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": ["#B32BED"],
+          "birthday": null,
+          "joinDate": null,
+          "sns": {"twitter": "https://x.com/iMiN_furan", "instagram": null, "tiktok": "https://www.tiktok.com/@furan_ilife"}
+        },
+        {
+          "uuid": "88F89763-0FE3-4A01-9E65-18A9609A47FF",
+          "masterId": "heroines_imin_yukise_ive",
+          "name": "雪聖いぶ",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": ["#FFFFFF"],
+          "birthday": null,
+          "joinDate": null,
+          "sns": {"twitter": "https://x.com/iMiN_ive", "instagram": null, "tiktok": "https://www.tiktok.com/@imin_ive"}
+        },
+        {
+          "uuid": "9CFF69C6-DFB9-49D1-8A7F-E45CC37D21BA",
+          "masterId": "heroines_imin_akane_latte",
+          "name": "紅音らて",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": ["#ED2B38"],
+          "birthday": "07-15",
+          "joinDate": null,
+          "sns": {"twitter": "https://x.com/iMiN__latte", "instagram": null, "tiktok": "https://www.tiktok.com/@imin_latte"}
+        },
+        {
+          "uuid": "9EFD840A-4DA1-44D7-B4F7-AB2D3128362A",
+          "masterId": "heroines_imin_natsuzora_kirari",
+          "name": "夏空きらり",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": ["#F5E345"],
+          "birthday": null,
+          "joinDate": null,
+          "sns": {"twitter": "https://x.com/iMiN_kirari", "instagram": null, "tiktok": null}
+        },
+        {
+          "uuid": "817C7598-69FD-410B-BFC7-DF55C3A967BE",
+          "masterId": "heroines_imin_mikaze_aru",
+          "name": "美風ある",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": ["#26C197"],
+          "birthday": null,
+          "joinDate": null,
+          "sns": {"twitter": "https://x.com/iMiN_aru", "instagram": null, "tiktok": "https://www.tiktok.com/@imin_aru"}
         }
       ]
     }
